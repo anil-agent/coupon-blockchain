@@ -6,11 +6,11 @@ Commands for interacting with the chaincode
 STEP1: Installing the chaincode
 docker exec cli peer chaincode install -n chaincodename -p PathtoChaincodefile -v v0
 
-STEP2:Instantiating the chaincode on the Channel
+STEP2: Instantiating the chaincode on the Channel
 
 docker exec cli peer chaincode invoke -o orderer.example.com:7050 -C mychannel -n chaincodename -c '{"function":"initLedger","Args":[""]}'
 
-STEP3:Invoking the chaincode
+STEP3: Invoking the chaincode
 
 1. Create Coupon
 
