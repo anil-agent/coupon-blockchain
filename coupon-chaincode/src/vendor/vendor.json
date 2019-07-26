@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "fYBKex3hNG/Fu/qaJQEab2nZQN4=",
+			"path": "github.com/google/uuid",
+			"revision": "c2e93f3ae59f2904160ceaab466009f965df46d6",
+			"revisionTime": "2019-04-16T17:24:45Z"
+		},
+		{
+			"checksumSHA1": "Bssc82hB3vC+9pRqIvRja8VlmTU=",
+			"path": "github.com/pborman/uuid",
+			"revision": "8b1b92947f46224e3b97bb1a3a5b0382be00d31e",
+			"revisionTime": "2018-09-18T08:52:46Z"
+		},
+		{
+			"checksumSHA1": "etcUdlsnZXEYrw5vs6/tH6E37Wo=",
+			"path": "github.com/shopspring/decimal",
+			"revision": "cd690d0c9e2447b1ef2a129a6b7b49077da89b8e",
+			"revisionTime": "2018-07-09T20:31:17Z"
+		}
+	],
+	"rootPath": "github.com/hyperledger"
+}
